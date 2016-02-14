@@ -1,0 +1,6 @@
+name: MessageSounds
+description: When message is sent, sound plays.
+author: LostTeam
+main: lostteam\ms\Main
+version: 1.0.0
+api: 1.14.0

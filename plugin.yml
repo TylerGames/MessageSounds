@@ -1,5 +1,5 @@
 name: MessageSounds
-description: When message is sent, sound plays.
+description: When message is sent, a sound plays.
 author: LostTeam
 main: lostteam\ms\Main
 version: 1.0.0
